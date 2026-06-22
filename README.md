@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I'm Divyansh👋
 
-<!--
-**Divyanshh06/Divyanshh06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me:
+* B.Tech Computer Science Student
+* Aspiring Cybersecurity Professional
 
-Here are some ideas to get you started:
+Currently Learning:
+* Linux
+* Networking
+* Python
+* Cybersecurity Fundamentals
+(Building hands-on labs, projects, and documentation to develop practical cybersecurity skills)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Roadmap:
+Linux → Networking → Python → Security Tools → TryHackMe → Projects
+---
+
+Skills Under Development:
+* Linux Administration
+* Networking Fundamentals
+* Python Programming
+* Security Tools
+* System Security
+* Incident Response Basics
+---
+
+Featured Repository:
+Cybersecurity Journey (currently building)
+---
+
+Goal:
+To build a strong cybersecurity portfolio through consistent hands-on learning and real-world projects.
